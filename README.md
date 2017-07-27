@@ -29,7 +29,7 @@ You should create one R script called run_analysis.R that does the following.
 
 ## Files in this repository
 
-README.md -- This document
-CodeBook.md -- This codebook describing variables, the data and transformations
-run_analysis.R -- R code for tidying data
+#### README.md -- This document
+#### CodeBook.md -- This codebook describing variables, the data and transformations
+#### run_analysis.R -- R code for tidying data
 
